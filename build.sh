@@ -1,0 +1,1 @@
+docker build --no-cache -t solution360/apache24-php72-shopware6 .
